@@ -1,4 +1,4 @@
-# Tic Tac
+# Harlyn
 
 A small, well-finished game of noughts and crosses. Vite + TypeScript, installable PWA,
 deployed to GitHub Pages at [tic.chrisquinn.ie](https://tic.chrisquinn.ie).

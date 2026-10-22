@@ -13,8 +13,8 @@ export default defineConfig({
       includeAssets: ['favicon.svg', 'apple-touch-icon.png'],
       manifest: {
         id: base,
-        name: 'Tic Tac',
-        short_name: 'Tic Tac',
+        name: 'Harlyn',
+        short_name: 'Harlyn',
         description: 'A quiet, well-made game of noughts and crosses.',
         start_url: base,
         scope: base,

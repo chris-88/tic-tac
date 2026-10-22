@@ -55,7 +55,7 @@ const state: State = { board: emptyBoard(), turn: 'X', starter: 'X', locked: fal
 const root = document.getElementById('app')!
 root.innerHTML = `
   <header class="top">
-    <h1 class="brand">Tic<span>Tac</span></h1>
+    <h1 class="brand">Har<span>lyn</span></h1>
     <div class="segmented" role="radiogroup" aria-label="Opponent">
       <button type="button" role="radio" data-mode="two">Two players</button>
       <button type="button" role="radio" data-mode="cpu">Computer</button>
